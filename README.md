@@ -77,3 +77,4 @@ Foodies/
 
  Contribution Guidelines
 Feel free to contribute to Foodies by forking this repository, creating a new branch, and submitting a pull request. Please make sure to follow standard coding practices and add meaningful comments to your code.
+"# Mini_Projects" 
